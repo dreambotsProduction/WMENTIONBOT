@@ -1,0 +1,24 @@
+{
+  "name": "Mention All Bot",
+  "description": "A simple mention all for telegram.",
+  "website": "https://kl29royalweb.design.blog/",
+  "repository": "https://github.com/shareefshaji/KL29ROYALNEWMENTIONBOT",
+  "logo": "https://www.pngmart.com/files/11/Hacker-PNG-HD.png",
+  "env": {
+    "TOKEN": {
+      "description": "Enter bot token.",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "Get this value from my.telegram.org! Please do not steal.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org! Please do not steal.",
+      "value": ""
+    }
+  },
+  "buildpacks": [{
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+  }]
+}
