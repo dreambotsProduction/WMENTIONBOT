@@ -1,4 +1,6 @@
-# Mention All Bot
+# KL29ROYALNEWMENTIONBOT
+_**IT'S JUST FOR MY GROUP 🤪**_
+
 _**This bot can mention members upto 10,000 in groups and can mention members upto 200 in channels !**_
 
 ### 🏷 Infomation
