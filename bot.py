@@ -81,6 +81,17 @@ async def mentionall(event):
         await asyncio.sleep(2)
         usrnum = 0
         usrtxt = ""
-        
+
+  @client.on(events.NewMessage(pattern="^/cancel$"))
+async def cancel_spam(event):
+  if not event.chat_id in spam_chats:
+    return await event.respond('__There is no proccess on going...__')
+  else:
+    try:
+      spam_chats.remove(event.chat_id)
+    except:
+      pass
+    return await event.respond('__Stopped.__')     
+
 print(">> BOT STARTED <<")
 client.run_until_disconnected()
