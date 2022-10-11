@@ -1,4 +1,4 @@
-# KL29ROYALNEWMENTIONBOT
+# MENTIONBOT
 _**IT'S JUST FOR MY GROUP 🤪**_
 
 _**This bot can mention members upto 10,000 in groups and can mention members upto 200 in channels !**_
@@ -8,9 +8,9 @@ _**This bot can mention members upto 10,000 in groups and can mention members up
 - Telegram Library: Telethon.
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shareefshaji/KL29ROYALNEWMENTIONBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dreambotsProduction/WMENTIONBOT)
 
 ### 🎯 Credits and Other
-- [KL29ROYAL](https://github.com/shareefshaji/) for this Project ;)
+- [DREAM IN SILENCE](https://github.com/dreambotsProduction/) for this Project ;)
 
 **Do not forget to follow me on Github ✌️**
