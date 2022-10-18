@@ -8,7 +8,7 @@ _**This bot can mention members upto 10,000 in groups and can mention members up
 - Telegram Library: Telethon.
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
-![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/dreambotsProduction/WMENTIOBOT&envs=BOT_TOKEN,API_ID,API_HASH)
+![[ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/dreambotsProduction/WMENTIOBOT&envs=BOT_TOKEN,API_ID,API_HASH)]
 
 
 ### 🚀 Deploy to heroku
